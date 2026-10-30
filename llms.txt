@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Hand-curated, link-checked catalog of 583 Model Context Protocol (MCP) servers in 14 categories. Each entry has a URL, description, category, language, provider, tags, and an official flag. The website, JSON API, and these files are generated from the same data.
+> Hand-curated, link-checked catalog of 584 Model Context Protocol (MCP) servers in 14 categories. Each entry has a URL, description, category, language, provider, tags, and an official flag. The website, JSON API, and these files are generated from the same data.
 
 MCP is an open protocol that lets AI applications connect to external tools and data through a standardized client-server interface. This catalog lists well-scoped, source-available servers for databases, developer tools, browsers, cloud services, and more. Entries are reviewed for a clear purpose, a public source, and recent or official maintenance. Links are checked on every pull request and weekly.
 
@@ -508,6 +508,7 @@ Links under each category point at the upstream project, docs, or registry page.
 - [Best Electrician Jobs](https://github.com/854Labs/best-electrician-jobs): Hosted OAuth MCP server for employers to manage electrician job posts and applicants on BestElectricianJobs.com: draft and publish jobs, read résumés and move candidates through hiring. (Other, official)
 - [BestPrice Shopping](https://github.com/TheBestCo/bestprice-mcp): Official read-only shopping MCP for Greece from BestPrice.gr: shopping recommendations, product search, store offers with delivered totals, and price history; no API key. (JavaScript, official)
 - [Bilbop x402](https://github.com/bilbop1/bilbop-x402-mcp): Pay-per-call agent tools paid in USDC on Solana over x402, no account or API key: text summarize, Solana token brief and mint info, text-to-speech, and human brand feedback. (JavaScript, official)
+- [Billstride](https://billstride.com/mcp): Hosted OAuth MCP server to create, send and track invoices from a conversation, chase overdue payments, see revenue, and export e-invoices (ZUGFeRD, XRechnung) and DATEV; open sign-up, first invoice free. (TypeScript, official)
 - [BirkinBagStock](https://birkinbagstock.com/llms.txt): Independent Hermès resale listings, price comparisons, and price alerts. (Other, official)
 - [BKK Staff](https://app.bkkstaff.com/mcp): Automated resume screening for small businesses: create and manage job posts, rank applicants (strong/possible/weak), search candidates and email applicants via a hosted OAuth MCP server. (Other, official)
 - [BlazePhoenix](https://github.com/blazephoenixxyz-crypto/blazephoenix-mcp): Official remote MCP server for the BlazePhoenix DEX aggregator on Base, Optimism, Arbitrum and Robinhood Chain: prepare a quote to run on your own RPC, decode it, and get verified calldata. No API key. (JavaScript, official)

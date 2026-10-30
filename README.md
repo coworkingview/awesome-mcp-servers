@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-[![Servers](https://img.shields.io/badge/servers-583-brightgreen)](#catalog)
+[![Servers](https://img.shields.io/badge/servers-584-brightgreen)](#catalog)
 [![GitHub stars](https://img.shields.io/github/stars/mcpHQ/awesome-mcp-servers?style=flat&logo=github)](https://github.com/mcpHQ/awesome-mcp-servers/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/mcpHQ/awesome-mcp-servers)](https://github.com/mcpHQ/awesome-mcp-servers/commits/main)
 [![Link check](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml/badge.svg)](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml)
@@ -52,7 +52,7 @@ If this list saves you time, please ⭐ star the repo. It helps other people fin
 - [Data, Analytics, and BI](#data-analytics-and-bi) (62)
 - [Legal and Court Data](#legal-and-court-data) (9)
 - [Security and Identity](#security-and-identity) (28)
-- [Finance, Commerce, and Business Apps](#finance-commerce-and-business-apps) (120)
+- [Finance, Commerce, and Business Apps](#finance-commerce-and-business-apps) (121)
 - [Utilities and Examples](#utilities-and-examples) (24)
 - [Logistics and Shipping](#logistics-and-shipping) (1)
 
@@ -1059,6 +1059,8 @@ Payments, banking, CRM, e-commerce, and business system integrations.
   `ecommerce` `price-comparison` `shopping` `greece` `remote`
 - **[Bilbop x402](https://github.com/bilbop1/bilbop-x402-mcp)** `Official` `JavaScript` — Pay-per-call agent tools paid in USDC on Solana over x402, no account or API key: text summarize, Solana token brief and mint info, text-to-speech, and human brand feedback.  
   `x402` `solana` `usdc` `remote`
+- **[Billstride](https://billstride.com/mcp)** `Official` `TypeScript` — Hosted OAuth MCP server to create, send and track invoices from a conversation, chase overdue payments, see revenue, and export e-invoices (ZUGFeRD, XRechnung) and DATEV; open sign-up, first invoice free.  
+  `invoicing` `finance` `e-invoicing` `oauth` `remote`
 - **[BirkinBagStock](https://birkinbagstock.com/llms.txt)** `Official` `Other` — Independent Hermès resale listings, price comparisons, and price alerts.  
   `ecommerce` `resale` `price-comparison` `remote`
 - **[BKK Staff](https://app.bkkstaff.com/mcp)** `Official` `Other` — Automated resume screening for small businesses: create and manage job posts, rank applicants (strong/possible/weak), search candidates and email applicants via a hosted OAuth MCP server.  

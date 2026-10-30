@@ -3349,6 +3349,25 @@
     }
   },
   {
+    "name": "Billstride",
+    "url": "https://billstride.com/mcp",
+    "description": "Hosted OAuth MCP server to create, send and track invoices from a conversation, chase overdue payments, see revenue, and export e-invoices (ZUGFeRD, XRechnung) and DATEV; open sign-up, first invoice free.",
+    "category": "finance-commerce-and-business-apps",
+    "language": "TypeScript",
+    "provider": "Billstride",
+    "tags": [
+      "invoicing",
+      "finance",
+      "e-invoicing",
+      "oauth",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://billstride.com/api/mcp"
+    }
+  },
+  {
     "name": "KanbanMCP",
     "url": "https://kanbanmcp.com/docs/connect",
     "description": "Hosted kanban board with a remote MCP server where AI agents claim cards, check in while they work, and hand off with notes.",
