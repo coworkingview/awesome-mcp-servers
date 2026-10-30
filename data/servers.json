@@ -4901,23 +4901,9 @@
     ],
     "official": true,
     "endpoints": {
-      "streamableHttp": "https://m
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+      "streamableHttp": "https://mcp.coworkingview.com/mcp"
+    }
+  },
   {
     "name": "Agent Payment Node",
     "url": "https://github.com/nuanu-ai/agent-payment-node",
